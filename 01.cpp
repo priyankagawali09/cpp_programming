@@ -1,4 +1,5 @@
 #include <iostream>
+//programe to printing msg
 using namespace std;
 int main(){
     cout<<"hello world"<<endl;
